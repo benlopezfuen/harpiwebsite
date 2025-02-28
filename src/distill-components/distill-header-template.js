@@ -67,13 +67,9 @@ distill-header .nav a {
 </style>
 <div class="content">
   <a href="/" class="logo">
-    ${logo}
-    Distill
+    
   </a>
   <nav class="nav">
-    <a href="/about/">About</a>
-    <a href="/prize/">Prize</a>
-    <a href="/journal/">Submit</a>
   </nav>
 </div>
 `;
